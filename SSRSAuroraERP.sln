@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33801.447
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "SSRSAuroraERP", "SSRSAuroraERP\SSRSAuroraERP.rptproj", "{9391A16D-BD6D-45C5-95B6-BE2FD301B75D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9391A16D-BD6D-45C5-95B6-BE2FD301B75D}.Debug|Default.ActiveCfg = Debug
+		{9391A16D-BD6D-45C5-95B6-BE2FD301B75D}.Debug|Default.Build.0 = Debug
+		{9391A16D-BD6D-45C5-95B6-BE2FD301B75D}.Debug|Default.Deploy.0 = Debug
+		{9391A16D-BD6D-45C5-95B6-BE2FD301B75D}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{9391A16D-BD6D-45C5-95B6-BE2FD301B75D}.DebugLocal|Default.Build.0 = DebugLocal
+		{9391A16D-BD6D-45C5-95B6-BE2FD301B75D}.Release|Default.ActiveCfg = Release
+		{9391A16D-BD6D-45C5-95B6-BE2FD301B75D}.Release|Default.Build.0 = Release
+		{9391A16D-BD6D-45C5-95B6-BE2FD301B75D}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {400AC1FB-18EA-4F99-BCF0-79CCFD4CA164}
+	EndGlobalSection
+EndGlobal
